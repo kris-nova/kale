@@ -1,2 +1,5 @@
-# tgik-bouncer
-OBS Bouncer that we use for TGIK
+# controller
+
+Kubernetes infrastructure controller built on the Kubicorn core library
+
+
