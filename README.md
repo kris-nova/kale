@@ -1,5 +1,11 @@
-# controller
+# kale
 
-Kubernetes infrastructure controller built on the Kubicorn core library
+Kubernetes 
+Automatic
+Livestream
+Emulator 
+
+
+RTMP bouncing in a container
 
 
